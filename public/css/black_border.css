@@ -1,0 +1,9 @@
+.black_border,
+.black_border > thead,
+.black_border > tbody,
+.black_border > thead> tr,
+.black_border > tbody> tr,
+.black_border > thead> tr> th,
+.black_border > tbody> tr> th,
+.black_border > thead> tr> td,
+.black_border > tbody> tr> td {border: 1px solid black;}
